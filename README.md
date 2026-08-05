@@ -1,18 +1,19 @@
 <svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2f81f7"/>
-      <stop offset="100%" stop-color="#58a6ff"/>
+      <stop offset="0%" stop-color="#0969da"/>
+      <stop offset="100%" stop-color="#218bff"/>
     </linearGradient>
   </defs>
-  <rect width="1000" height="200" fill="#0d1117"/>
+  <rect width="1000" height="200" fill="#f6f8fa"/>
   <rect x="0" y="0" width="1000" height="3" fill="url(#accent)"/>
 
-  <text x="500" y="88" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" fill="#e6edf3" font-weight="600" letter-spacing="0.5">Abraham Zayed</text>
-  <text x="500" y="126" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e" font-weight="400">Founder of Nekolingo &#8202;&#183;&#8202; Django &#8202;&#183;&#8202; Swift/SwiftUI &#8202;&#183;&#8202; Applied AI</text>
+  <text x="500" y="88" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" fill="#1f2328" font-weight="600" letter-spacing="0.5">Abraham Zayed</text>
+  <text x="500" y="126" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#59636e" font-weight="400">Founder of Nekolingo &#8202;&#183;&#8202; Django &#8202;&#183;&#8202; Swift/SwiftUI &#8202;&#183;&#8202; Applied AI</text>
 
-  <line x1="440" y1="150" x2="560" y2="150" stroke="#30363d" stroke-width="1"/>
+  <line x1="440" y1="150" x2="560" y2="150" stroke="#d0d7de" stroke-width="1"/>
 </svg>
+
 
 
 
