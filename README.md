@@ -1,63 +1,66 @@
-# Hi, I'm Abraham 👋 &nbsp;·&nbsp; `@Pharox24`
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="200" fill="#0d1117"/>
+  <rect x="0" y="0" width="1000" height="3" fill="url(#accent)"/>
 
-> Founder of **[Nekolingo](https://nekolingo.app)** · CS & mathematics-minded developer building at the intersection of **language**, **software**, and **numbers**.
+  <text x="500" y="88" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" fill="#e6edf3" font-weight="600" letter-spacing="0.5">Abraham Zayed</text>
+  <text x="500" y="126" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e" font-weight="400">Founder of Nekolingo &#8202;&#183;&#8202; Django &#8202;&#183;&#8202; Swift/SwiftUI &#8202;&#183;&#8202; Applied AI</text>
 
-I'm building **Nekolingo**, an AI-powered language-learning platform (SRS flashcards,
-AI tutor chat, generated stories & courses, spoken-language practice) — Django on the
-backend with a Chrome extension front end for capturing content in the wild. Outside
-of that I build **Chinese/HSK flashcards** and vocabulary tools on iOS. I'm drawn to
-the theory underneath it all (algorithms, computation, the math that makes things
-tick) and increasingly curious about **finance** and applying quantitative thinking
-to markets.
+  <line x1="440" y1="150" x2="560" y2="150" stroke="#30363d" stroke-width="1"/>
+</svg>
 
-### 🧭 About me
-- 🚀 Founder of **[Nekolingo](https://nekolingo.app)** — AI-driven language learning (SRS, AI tutor, generated content, Chrome extension)
-- 🔭 I also build **HSK/Chinese flashcards & vocab tools** in SwiftUI
-- 🌱 Currently leveling up my **JavaScript & React**
-- 🧮 Into **mathematics, CS theory, computational linguistics, and finance**
-- 💞️ Open to collaborating on **any interesting project that pushes my coding further**
-- 🥊 Away from the keyboard: **Muay Thai, working out, and reading**
-- 📫 Reach me at **abrahamzayed01@gmail.com**
 
-### 🛠️ Tech I work with
 
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img src="banner-light.svg" width="100%" alt="Abraham Zayed — Founder of Nekolingo, Django, Swift/SwiftUI, Applied AI">
+</picture>
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & platforms**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Tools**
-
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pharox24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abraham's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharox24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<p align="center">
+  <a href="https://nekolingo.app"><img src="https://img.shields.io/badge/nekolingo.app-founder-0969da?style=flat-square" alt="Nekolingo"></a>
+  <a href="mailto:abrahamzayed01@gmail.com"><img src="https://img.shields.io/badge/contact-email-6e7781?style=flat-square" alt="email"></a>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pharox24&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+### Currently building
+
+**[Nekolingo](https://nekolingo.app)** — an AI-powered language-learning platform: spaced-repetition
+flashcards, an AI tutor chat, generated stories and courses, and spoken-language practice.
+Django backend, a Chrome extension for capturing content from the web, Stripe billing,
+DeepSeek/OpenAI/Anthropic for content generation and tutoring.
+
+Outside of that: Chinese/HSK flashcard and vocabulary tools on iOS, and a general pull
+toward the math and CS theory underneath the tooling — algorithms, computation, and
+increasingly, quantitative finance.
+
+### Stack
+
+| | |
+|---|---|
+| **Backend** | Python · Django · PostgreSQL |
+| **Frontend** | JavaScript · React · Tailwind CSS |
+| **Mobile** | Swift · SwiftUI |
+| **AI / infra** | OpenAI · Anthropic · DeepSeek · Stripe |
+| **Tools** | Git · Xcode · VS Code |
+
+### Currently
+
+- Building Nekolingo full-time
+- Leveling up JavaScript & React
+- Reading into CS theory, computational linguistics, and finance
+- Off the keyboard: Muay Thai, reading
 
 ---
-<sub>“What I cannot create, I do not understand.” — Richard Feynman</sub>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Pharox24&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" alt="Abraham's GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pharox24&layout=compact&theme=default&hide_border=true&langs_count=6&hide_title=true" alt="Top languages">
+</p>
+
+<p align="center"><sub>"What I cannot create, I do not understand." — Richard Feynman</sub></p>
+
