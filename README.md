@@ -1,15 +1,18 @@
 # Hi, I'm Abraham 👋 &nbsp;·&nbsp; `@Pharox24`
 
-> CS & mathematics-minded developer building at the intersection of **language**, **software**, and **numbers**.
+> Founder of **[Nekolingo](https://nekolingo.app)** · CS & mathematics-minded developer building at the intersection of **language**, **software**, and **numbers**.
 
-I spend most of my time building apps that help people learn languages — Chinese/HSK
-flashcards, vocabulary tools, and word-frequency parsers — mostly in **Swift/SwiftUI**
-on iOS and **Python/Django** on the web. I'm drawn to the theory underneath it all
-(algorithms, computation, the math that makes things tick) and increasingly curious
-about **finance** and applying quantitative thinking to markets.
+I'm building **Nekolingo**, an AI-powered language-learning platform (SRS flashcards,
+AI tutor chat, generated stories & courses, spoken-language practice) — Django on the
+backend with a Chrome extension front end for capturing content in the wild. Outside
+of that I build **Chinese/HSK flashcards** and vocabulary tools on iOS. I'm drawn to
+the theory underneath it all (algorithms, computation, the math that makes things
+tick) and increasingly curious about **finance** and applying quantitative thinking
+to markets.
 
 ### 🧭 About me
-- 🔭 I build **language-learning apps** — HSK/Chinese flashcards & vocab tools in SwiftUI, plus Django web apps
+- 🚀 Founder of **[Nekolingo](https://nekolingo.app)** — AI-driven language learning (SRS, AI tutor, generated content, Chrome extension)
+- 🔭 I also build **HSK/Chinese flashcards & vocab tools** in SwiftUI
 - 🌱 Currently leveling up my **JavaScript & React**
 - 🧮 Into **mathematics, CS theory, computational linguistics, and finance**
 - 💞️ Open to collaborating on **any interesting project that pushes my coding further**
@@ -28,11 +31,18 @@ about **finance** and applying quantitative thinking to markets.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks**
+**Frameworks & platforms**
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Tools**
 
