@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Abraham Zayed. Founder of Nekolingo. AI tools for language, learning and translation.">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#5b8cff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5b8cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#5b8cff"/>
+      <stop offset="0.5" stop-color="#8fb0ff"/>
+      <stop offset="1" stop-color="#c08cff"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1200" height="340" rx="14"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .g { opacity: 0; animation: cycle 9s infinite; }
+      .g2 { animation-delay: 3s; } .g3 { animation-delay: 6s; }
+      @keyframes cycle { 0% { opacity: 0; } 4% { opacity: 1; } 30% { opacity: 1; } 34% { opacity: 0; } 100% { opacity: 0; } }
+      .dot { animation: pulse 2.4s infinite; }
+      @keyframes pulse { 50% { opacity: .35; } }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .bar { transform-origin: left; animation: grow 1.6s cubic-bezier(.2,.7,.2,1) both; }
+      @keyframes grow { from { transform: scaleX(0); } }
+    </style>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="340" fill="#07080b"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+
+    <!-- status bar -->
+    <rect width="1200" height="40" fill="#0b0d12"/>
+    <line x1="0" y1="40" x2="1200" y2="40" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle class="dot" cx="32" cy="20" r="4" fill="#3ddc97"/>
+    <text class="mono" x="46" y="24" font-size="12" fill="#e9ebf1" letter-spacing="1">BUILDING</text>
+    <text class="mono" x="128" y="24" font-size="12" fill="#434858">/</text>
+    <text class="mono" x="146" y="24" font-size="12" fill="#5b8cff" letter-spacing="1">@PHAROX24</text>
+    <text class="mono" x="1168" y="24" font-size="12" fill="#6b7183" letter-spacing="1" text-anchor="end">PHAROX24.GITHUB.IO</text>
+
+    <!-- prompt + rotating greeting -->
+    <text class="mono" x="56" y="96" font-size="17" fill="#5b8cff">~/pharox24 $<tspan fill="#aab0bf"> echo</tspan></text>
+    <text class="mono g g1" x="244" y="96" font-size="17" fill="#e9ebf1">"hello"</text>
+    <text class="mono g g2" x="244" y="96" font-size="17" fill="#e9ebf1">"مرحبا"</text>
+    <text class="mono g g3" x="244" y="96" font-size="17" fill="#e9ebf1">"你好"</text>
+    <rect class="caret" x="334" y="82" width="9" height="18" fill="#5b8cff"/>
+
+    <!-- name -->
+    <text class="sans" x="52" y="186" font-size="86" font-weight="700" fill="#e9ebf1" letter-spacing="-3">Abraham <tspan fill="url(#name)">Zayed.</tspan></text>
+    <rect class="bar" x="56" y="208" width="120" height="3" fill="#5b8cff"/>
+
+    <text class="sans" x="56" y="250" font-size="22" fill="#aab0bf">Founder of <tspan fill="#5b8cff">Nekolingo</tspan> · AI tools for <tspan fill="#e9ebf1">language</tspan>, <tspan fill="#e9ebf1">learning</tspan> and <tspan fill="#e9ebf1">translation</tspan></text>
+
+    <!-- chips -->
+    <g class="mono" font-size="12" letter-spacing="1">
+      <rect x="56" y="280" width="148" height="28" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="130" y="299" fill="#aab0bf" text-anchor="middle">CS @ ZUST</text>
+      <rect x="214" y="280" width="186" height="28" fill="none" stroke="#ffffff" stroke-opacity="0.16"/>
+      <text x="307" y="299" fill="#aab0bf" text-anchor="middle">AR · EN · 中文 HSK 5</text>
+      <rect x="410" y="280" width="200" height="28" fill="#3ddc97" fill-opacity="0.1" stroke="#3ddc97" stroke-opacity="0.5"/>
+      <text x="510" y="299" fill="#3ddc97" text-anchor="middle">OPEN TO COLLABORATE</text>
+    </g>
+
+    <!-- right-side code card -->
+    <g transform="translate(800 70)">
+      <rect width="344" height="236" fill="#0f1218" stroke="#ffffff" stroke-opacity="0.14"/>
+      <line x1="0" y1="32" x2="344" y2="32" stroke="#ffffff" stroke-opacity="0.08"/>
+      <text class="mono" x="14" y="21" font-size="11" fill="#6b7183" letter-spacing="1">abraham.config.ts</text>
+      <circle cx="300" cy="16" r="4" fill="#434858"/><circle cx="314" cy="16" r="4" fill="#434858"/><circle cx="328" cy="16" r="4" fill="#434858"/>
+      <g class="mono" font-size="13">
+        <text x="16" y="62"><tspan fill="#c08cff">const</tspan><tspan fill="#5b8cff"> me</tspan><tspan fill="#aab0bf"> = {</tspan></text>
+        <text x="32" y="88" fill="#aab0bf">building: <tspan fill="#3ddc97">"Nekolingo"</tspan>,</text>
+        <text x="32" y="112" fill="#aab0bf">research: <tspan fill="#3ddc97">"LLM eval"</tspan>,</text>
+        <text x="32" y="136" fill="#aab0bf">thesis:   <tspan fill="#3ddc97">"Ar↔Zh MT"</tspan>,</text>
+        <text x="32" y="160" fill="#aab0bf">stack:    <tspan fill="#3ddc97">"py·dj·ts·swift"</tspan>,</text>
+        <text x="32" y="184" fill="#aab0bf">shipping: <tspan fill="#f5b84a">true</tspan>,</text>
+        <text x="16" y="210" fill="#aab0bf">};</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+</svg>
